@@ -6,5 +6,6 @@
 1. Iterar sobre el array de pokemons y crear 4 cartas pokemon con:
    - Foto
    - Nombre del pokemon
-   - Tipo -> con letras y el fondo de la carta (rojo si es tipo fuego, amarillo, azul o verde)
-   - HP
+   - Tipos -> con letras y el fondo de la carta (rojo si es tipo fuego, amarillo, azul o verde)
+   - HP(stats)
+   - Ataques (abilities)
